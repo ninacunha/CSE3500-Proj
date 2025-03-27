@@ -1,0 +1,5 @@
+
+This is a test file created to check plagiarism detection using the Rabin-Karp algorithm.
+It contains some similar content that will be checked for similarities with another file.
+The aim of this test is to identify any matching substrings.
+We expect the algorithm to find common patterns in both files.

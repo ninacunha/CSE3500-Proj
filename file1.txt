@@ -1,0 +1,5 @@
+
+This is a sample document meant for testing the Rabin-Karp algorithm.
+It contains some text that will be checked for plagiarism against another file.
+The goal of this test is to detect similarities between the two files.
+We expect the algorithm to detect identical substrings.
