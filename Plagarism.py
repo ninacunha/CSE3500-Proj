@@ -50,6 +50,6 @@ def rabin_karp_file(file1, file2, pattern_length=10):
         print("No plagiarism detected.")
 
 # Example usage:
-file1 = '/Users/jasonpondugula/Documents/CSE3500 - Group Project/CSE3500-Proj/file1.txt'  # Path to the first file
-file2 = '/Users/jasonpondugula/Documents/CSE3500 - Group Project/CSE3500-Proj/file2.txt'  # Path to the second file
+file1 = 'file1.txt'  # Path to the first file
+file2 = 'file2.txt'  # Path to the second file
 rabin_karp_file(file1, file2, pattern_length=10)  # Search for patterns of length 10
